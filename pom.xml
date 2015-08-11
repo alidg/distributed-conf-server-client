@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Config Server</module>
+        <module>Config Client</module>
     </modules>
 
     <properties>
